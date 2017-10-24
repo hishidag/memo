@@ -1,6 +1,9 @@
 
 # network
 
+## ネットワークの基本は、繋がる、速い、セキュリティ
+
+
 |名前|関連する内容|
 |---|---|
 |IEEE802.1Q|VLAN IDを識別するVLANタグ-ポート規格|
@@ -18,6 +21,7 @@ SAN(Storage Area Network)について
 |IP-SAN|iSCSI SCSIコマンドをIPでカプセル化　TCPによる通信　イニシエータ-ターゲット|
 
 SAS：SCSIをシリアルATAと上位互換
+
 
 
 [ゼロから始めるスイッチ講座](http://news.mynavi.jp/series/networkswitch/001/)
