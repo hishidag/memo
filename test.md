@@ -11,8 +11,9 @@
 |チーミング|NICをまとめる|
 
 SAN(Storage Area Network)について
+
 |名前|内容|
-|--|--|
+|---|---|
 |FC-SAN|FCoE FCF間を転送されるごとにTRILLヘッダによるカプセル化の着脱|
 |IP-SAN|iSCSI SCSIコマンドをIPでカプセル化　TCPによる通信　イニシエータ-ターゲット|
 
