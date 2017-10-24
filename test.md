@@ -28,6 +28,7 @@ SAN(Storage Area Network)について
 SAS：SCSIをシリアルATAと上位互換
 
 
-
+リンク集
+----
 [ゼロから始めるスイッチ講座](http://news.mynavi.jp/series/networkswitch/001/)
 
