@@ -9,4 +9,4 @@
 |フレームアグリゲーション|複数の（Ethernet）フレームをまとめる|
 |リンクアグリゲーション|ポートをまとめる|
 
-
+[ゼロから始めるスイッチ講座](http://news.mynavi.jp/series/networkswitch/001/)
