@@ -1,7 +1,7 @@
 
 # システム監査技術者
 
-リスクを発見する  　
+リスクを発見する  
 独立性は基本  
 
 [ISACA 資料](http://www.isaca.org/japanese/Pages/default.aspx)  
